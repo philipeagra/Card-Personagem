@@ -20,8 +20,6 @@ Screenshots
 Contribuindo
 Se você gostou do projeto e deseja contribuir, sinta-se à vontade para abrir um pull request com suas melhorias e correções. Toda contribuição é bem-vinda!
 
-Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo, modificá-lo e distribuí-lo conforme a licença.
 
 Contato
 Caso tenha alguma dúvida ou queira entrar em contato, você pode me encontrar no LinkedIn ou enviar um e-mail para [philipeagra.dev@gmail.com].
