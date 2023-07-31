@@ -12,7 +12,7 @@ Card interativo 3D que reage ao passar o mouse sobre ele.
 Animação de rotação para criar o efeito 3D.
 Detalhes sobre a personagem, como nome, raça, habilidades, entre outros.
 Como visualizar o projeto
-Para visualizar o projeto, basta acessar o seguinte link: Link para o projeto
+
 
 Screenshots
 ![Alt text](image.png)
